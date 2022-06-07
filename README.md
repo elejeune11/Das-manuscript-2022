@@ -9,7 +9,7 @@ The Jupyter notebook `approximate_myofibril_segmentation.ipynb` contains code to
 </p>
 
 # Part 2: Strain Analysis
-The Jupyter notebook `compute_regional_strain.ipynb` contains code to compute strain within specified regions of interest in the microtissue domain. The Jupyter notebook also uses functions specified in `compute_strain_additional_functions.py'. 
+The Jupyter notebook `compute_regional_strain.ipynb` contains code to compute strain within specified regions of interest in the microtissue domain. The Jupyter notebook also uses functions specified in `compute_strain_additional_functions.py'. Details are contained within the Jupyter notebook, and the process is explained in text in the manuscript.
 
 ROI definition: 
 <p align="center">
