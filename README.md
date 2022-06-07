@@ -4,7 +4,7 @@ This repository contains code used to analyze mechanical structure and mechanica
 # Part 1: Object Segmentation
 The Jupyter notebook `approximate_myofibril_segmentation.ipynb` contains code to segment and quantify "myofibril-like" structures. Details are contained within the Jupyter notebook, and the process is explained in text in the manuscript. For context, the goal of this code is to determine the total length of segmented fiber-like structures that are over 6 microns long. 
 
-<img src="https://github.com/elejeune11/Das-manuscript-2022/blob/main/Object_Segmentation/segmentation_example.png" width="250"/>
+<img src="https://github.com/elejeune11/Das-manuscript-2022/blob/main/Object_Segmentation/segmentation_example.png" width="500"/>
 
 
 # Part 2: Strain Analysis
