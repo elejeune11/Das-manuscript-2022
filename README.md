@@ -13,12 +13,12 @@ The Jupyter notebook `compute_regional_strain.ipynb` contains code to compute st
 
 ROI definition: 
 <p align="center">
-<img src="https://github.com/elejeune11/Das-manuscript-2022/blob/main/Strain_Analysis/D1T3_Before_regions.png" width="500"/>
+<img src="https://github.com/elejeune11/Das-manuscript-2022/blob/main/Strain_Analysis/D1T3_Before_regions.png" width="800"/>
 </p>
 
 Strain in each ROI: 
 <p align="center">
-<img src="https://github.com/elejeune11/Das-manuscript-2022/blob/main/Strain_Analysis/D1T3_Before_strain.png" width="500"/>
+<img src="https://github.com/elejeune11/Das-manuscript-2022/blob/main/Strain_Analysis/D1T3_Before_strain.png" width="800"/>
 </p>
 
 For questions, please contact Emma Lejeune `elejeune@bu.edu`
