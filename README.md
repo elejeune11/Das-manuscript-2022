@@ -1,1 +1,6 @@
-# Das-manuscript-2022
+# Introduction
+
+
+# Part 1: Myofibril Segmentation
+
+# Part 2: Strain Analysis
